@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>AT&T Public Policy</title>
+  <link> https://www.attpublicpolicy.com</link>
+  <description>AT&T Public Policy Website</description>
+  <item>
+    <title>AT&T Test Results Text</title>
+    <link>https://www.att.com/offers/streamsaver.html</link>
+    <description>Inaccurate results may be shown if the AT&T Stream Saver feature is on. This is an optional capability that is enabled by default on most Mobile data plans in order for customers to save data while video streaming, go to https://www.att.com/offers/streamsaver.html for more info</description>
+    <category>AT&T Modal Text- Stream Testing</category>
+    <pubDate>03/22/18</pubDate>
+  </item>
+
+</channel>
+
+</rss>
+
